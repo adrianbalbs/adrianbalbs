@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🥶
+- I'm a Computer Science Graduate from UNSW
+- I'm currently working as a Casual Academic at UNSW, teaching Object Oriented Design and Programming
+- I like playing guitar and lifting big weights
 
 <!--
 **adrianbalbs/adrianbalbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
