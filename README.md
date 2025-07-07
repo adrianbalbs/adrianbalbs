@@ -1,5 +1,6 @@
 ## Hi there 🥶
 - I'm a Computer Science Graduate from UNSW
+- I'm currently tweaking my dotfiles every 5 minutes
 - I'm currently working as a Casual Academic at UNSW, teaching Object Oriented Design and Programming
 - I like playing guitar and lifting big weights
 
