@@ -1,6 +1,5 @@
 ## Hi there 🥶
 - I'm a Computer Science Graduate from UNSW
-- I'm currently tweaking my dotfiles every 5 minutes
 - I'm interested in backend development, programming languages and compilers, distributed systems and system architecture
 - I also like dabbling with frontend development from time to time
 - I'm currently working as a Casual Academic at UNSW, teaching Object Oriented Design and Programming
