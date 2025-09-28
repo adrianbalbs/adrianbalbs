@@ -1,4 +1,4 @@
-## Hi there !
+## Hi there ! ✨
 - I'm a Computer Science Graduate from UNSW
 - I'm currently working as a Graduate Software Engineer
 - I'm interested in backend development, programming languages and compilers, distributed systems and system architecture, with a little frontend sprinkled in from time-to-time
