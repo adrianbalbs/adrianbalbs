@@ -1,9 +1,8 @@
-## Hi there 🥶
+## Hi there !
 - I'm a Computer Science Graduate from UNSW
-- I'm interested in backend development, programming languages and compilers, distributed systems and system architecture
-- I also like dabbling with frontend development from time to time
-- I'm currently working as a Casual Academic at UNSW, teaching Object Oriented Design and Programming
-- I like playing guitar and lifting big weights
+- I'm currently working as a Graduate Software Engineer
+- I'm interested in backend development, programming languages and compilers, distributed systems and system architecture, with a little frontend sprinkled in from time-to-time
+- I like playing guitar, playing video games, and powerlifting!
 
 <!--
 **adrianbalbs/adrianbalbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
